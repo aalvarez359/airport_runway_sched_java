@@ -1,0 +1,13 @@
+1234 Departing Emergency 5 45
+5678 Arriving Regular 3 15
+1111 Arriving Regular 1 15
+2222 Departing Regular 0 15
+3333 Arriving Emergency 4 20
+4444 Departing Regular 2 44
+5555 Departing Regular 6 22
+6666 Arriving Regular 7 11
+7777 Arriving Regular 8 33
+8888 Departing Regular 9 55
+9999 Departing Regular 17 22
+5678 Arriving Regular 19 14
+8765 Arriving Emergency 19 17
